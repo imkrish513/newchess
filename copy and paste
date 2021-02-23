@@ -1,0 +1,8 @@
+if(checker1.isTouching(pawn1)||checker1.isTouching(pawn2)||checker1.isTouching(pawn3)||checker1.isTouching(pawn4)||checker1.isTouching(pawn5)||checker1.isTouching(pawn6)||checker1.isTouching(pawn7)||checker1.isTouching(pawn8)||checker1.isTouching(king)||checker1.isTouching(camel2)||checker1.isTouching(horse2)||checker1.isTouching(elephant2)||checker1.isTouching(camel1)||checker1.isTouching(horse1)||checker1.isTouching(elephant1)){
+            redsq.visible = false;
+            checker1.visible = false;
+            redsq1.visible = false;
+          redsq.visible = false;
+          
+            touching1 = 5
+          }
